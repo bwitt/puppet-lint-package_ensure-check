@@ -1,7 +1,7 @@
 Gem::Specification.new do |spec|
   spec.name        = 'puppet-lint-package_ensure-check'
   spec.version     = '0.2.0'
-  spec.homepage    = 'https://github.com/danzilio/puppet-lint-package_ensure-check'
+  spec.homepage    = 'https://github.com/voxpupuli/puppet-lint-package_ensure-check'
   spec.license     = 'Apache-2.0'
   spec.author      = 'David Danzilio'
   spec.email       = 'david@danzilio.net'
